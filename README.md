@@ -8,8 +8,11 @@ Handcrafted "linear regression" using Adaptive Gradient Descent.
  4. predict.csv: the prediction result.
  
  ### Tools and libraries:
- python 3.6
- numpy
- math
- scv
+ python 3.6;
+ 
+ numpy;
+ 
+ math;
+ 
+ scv;
  
